@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  align-items: center;
+  grid-gap: 12px;
+}
+
+.action {
+  display: flex;
+  align-items: center;
+}
